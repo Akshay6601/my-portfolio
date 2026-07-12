@@ -1,0 +1,102 @@
+Portfolio Content
+
+About Me
+
+## About Me
+
+I'm a Computer Science student who enjoys learning by building real projects. Recently, I've been exploring modern web development, creating responsive applications, and understanding how frontend and backend technologies come together to build complete products.
+
+I like breaking down complex problems, experimenting with new tools, and improving my skills one project at a time. Every project teaches me something new, and I'm always looking for opportunities to grow as a developer.
+
+When I'm not coding, you'll usually find me exploring new technologies, reading developer blogs, or refining ideas for my next project.
+
+------------------------------------------------------------------------
+
+Hero Tagline
+
+
+Computer Science Student • Full-Stack Developer
+
+
+------------------------------------------------------------------------
+
+Short Bio
+
+I enjoy building modern web applications, learning new technologies, and turning ideas into projects. I'm constantly exploring better ways to create clean, responsive, and user-friendly experiences.
+
+------------------------------------------------------------------------
+
+Email
+akkitiw@gmail.com
+------------------------------------------------------------------------
+
+GitHub
+https://github.com/Akshay6601
+------------------------------------------------------------------------
+
+LinkedIn
+https://www.linkedin.com/in/akshay-tiwari-964a32262/
+------------------------------------------------------------------------
+
+
+
+Resume URL (optional)
+
+------------------------------------------------------------------------
+
+Profile Photo
+
+Filename/path:
+
+------------------------------------------------------------------------
+
+Projects
+
+Project 1
+
+Title: Description: Tech Stack: GitHub: Live Demo:
+
+Project 2
+
+Title: Description: Tech Stack: GitHub: Live Demo:
+
+Project 3
+
+Title: Description: Tech Stack: GitHub: Live Demo:
+
+------------------------------------------------------------------------
+
+Skills
+
+List your skills here.
+Languages
+Java
+Python
+JavaScript
+TypeScript
+SQL
+Frontend
+HTML5
+CSS3
+React
+Next.js
+Tailwind CSS
+Backend
+Node.js
+Express.js
+REST APIs
+Database
+PostgreSQL
+Neon (if you've used it)
+SQLite (if applicable)
+Tools
+Git
+GitHub
+VS Code
+Postman
+npm
+------------------------------------------------------------------------
+
+Anything Else
+
+Any additional content you’d like displayed.
